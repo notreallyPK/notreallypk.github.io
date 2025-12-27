@@ -1,67 +1,116 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jayesh Nair</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Jayesh Nair</description>
+    <title>Tags on Pratik Kokil</title>
+    <link>https://notreallypk.github.io/tags/</link>
+    <description>Recent content in Tags on Pratik Kokil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hacking</title>
-      <link>http://localhost:1313/tags/hacking/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hacking/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://notreallypk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
-      <link>http://localhost:1313/tags/links/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/links/</guid>
+      <link>https://notreallypk.github.io/tags/links/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/links/</guid>
       <description></description>
     </item>
     <item>
-      <title>Philosophy</title>
-      <link>http://localhost:1313/tags/philosophy/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philosophy/</guid>
+      <title>Deep Learning</title>
+      <link>https://notreallypk.github.io/tags/deep-learning/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
-      <title>Decisions</title>
-      <link>http://localhost:1313/tags/decisions/</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/decisions/</guid>
+      <title>Object Tracking</title>
+      <link>https://notreallypk.github.io/tags/object-tracking/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/object-tracking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scene Graphs</title>
+      <link>https://notreallypk.github.io/tags/scene-graphs/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/scene-graphs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reading</title>
+      <link>https://notreallypk.github.io/tags/reading/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/reading/</guid>
       <description></description>
     </item>
     <item>
       <title>Thoughts</title>
-      <link>http://localhost:1313/tags/thoughts/</link>
-      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/thoughts/</guid>
+      <link>https://notreallypk.github.io/tags/thoughts/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/thoughts/</guid>
       <description></description>
     </item>
     <item>
-      <title>Explanibility</title>
-      <link>http://localhost:1313/tags/explanibility/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/explanibility/</guid>
+      <title>ASR</title>
+      <link>https://notreallypk.github.io/tags/asr/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/asr/</guid>
       <description></description>
     </item>
     <item>
-      <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
+      <title>Audio</title>
+      <link>https://notreallypk.github.io/tags/audio/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/audio/</guid>
       <description></description>
     </item>
     <item>
-      <title>Technical</title>
-      <link>http://localhost:1313/tags/technical/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/technical/</guid>
+      <title>TTS</title>
+      <link>https://notreallypk.github.io/tags/tts/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/tts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>https://notreallypk.github.io/tags/computer-vision/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sensor Fusion</title>
+      <link>https://notreallypk.github.io/tags/sensor-fusion/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/sensor-fusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reinforcement-Learning</title>
+      <link>https://notreallypk.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking</title>
+      <link>https://notreallypk.github.io/tags/hacking/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>https://notreallypk.github.io/tags/philosophy/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decisions</title>
+      <link>https://notreallypk.github.io/tags/decisions/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/decisions/</guid>
       <description></description>
     </item>
   </channel>

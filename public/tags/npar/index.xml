@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NPAR on Pratik Kokil</title>
+    <link>http://localhost:1313/tags/npar/</link>
+    <description>Recent content in NPAR on Pratik Kokil</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/npar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exloring Weighted Vornois Stippling (1)</title>
+      <link>http://localhost:1313/notes/vorstip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/vorstip/</guid>
+      <description>&lt;p&gt;&lt;em&gt;NPAR&lt;/em&gt;: Non Photorealistic Animation and Rendering&lt;/p&gt;&#xA;&lt;p&gt;Some links to checkout:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Bxdt6T_1qgc&amp;amp;t=169s&#34;&gt;Coding-Train&amp;rsquo;s intro&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.cs.ubc.ca/labs/imager/tr/2002/secord2002b/secord.2002b.pdf&#34;&gt;Weighted Vornoi Stippling Paper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://people.sc.fsu.edu/~jburkardt/classes/urop_2016/du_faber_gunzburger.pdf&#34;&gt;Centroidal Vornoi Tessellations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lloyd%27s_algorithm&#34;&gt;Lloyd&amp;rsquo;s algorithm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://web.stanford.edu/class/ee398a/handouts/papers/Max%20-%20Quantizing%20for%20Min%20Distortion.pdf&#34;&gt;Paper for Lloyd-Max algorithm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.Voronoi.html&#34;&gt;Scipy Docs and Code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Scilicon Graphics Computer Systems-&lt;a href=&#34;https://graphics.stanford.edu/courses/cs248-05/haeberli-paint-by-numbers-sig90.pdf&#34;&gt;Paint By Numbers: Abstract Image Representations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

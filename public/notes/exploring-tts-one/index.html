@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratik Kokil</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<header>
+    <h1 class="site-title">
+        <a href="/" style="color: #B8401E; text-decoration: none;">Pratik Kokil</a>
+    </h1>
+    <nav>
+        
+        
+            
+            <a href="/about/" class="">
+                About
+            </a>
+        
+             | 
+            <a href="/writings/" class="">
+                Blog
+            </a>
+        
+             | 
+            <a href="/notes/" class="">
+                Tech
+            </a>
+        
+             | 
+            <a href="/projects/" class="">
+                Projects
+            </a>
+        
+             | 
+            <a href="/reading/" class="">
+                Reading
+            </a>
+        
+    </nav>
+</header> 
+    <body>
+        <main>
+            
+<article>
+    <h1>Exloring Text To Speech Models (1)</h1>
+
+    
+    <div class="metadata-box">
+        <span><strong>Date:</strong> 2025-07-03</span>
+        
+            <span><strong>Last Modified:</strong> 2025-07-03</span>
+        
+        <span><strong>Status:</strong>
+            
+                Unfinished
+            
+        </span>
+        <span><strong>Tags:</strong>
+            
+                <a href="/tags/technical">technical</a>, 
+            
+                <a href="/tags/tts">TTS</a>, 
+            
+                <a href="/tags/deep-learning">deep-learning</a>, 
+            
+                <a href="/tags/audio">audio</a>
+            
+        </span>
+    </div>
+
+    <p>An exploration into different models available in Text to Speech (and perhaps writing some frontend for it)</p>
+    <p>With the shut-down of services like Pocket and Google Assistant&rsquo;s &ldquo;Read-it-to-me&rdquo; feature, I feel that there is no longer an easy way to store / read webpages on android, with similar quality.[^1]</p>
+<p>Now, of course there are alternatives, but I just find them to be quite irritating. Speechify is one of them, but I don&rsquo;t like the spammy ad&rsquo;s and limitations, with endless amount of extra options on voices / modes etc. Not to mention - you&rsquo;ve got to shell out a decent amount of money.[^2]</p>
+<p>This gave me the perfect excuse to look at Text-To-Speech models. Specifically, open source models, how good have they become, and can they help me consume content via audio - better than existing products ?</p>
+<p>I did a basic search for small models, I was looking to work with something locally. I had an NVIDIA-RTx 3060 with 4 GB memory usage.[^3] OuteTTS looked good - it had a bunch of models, the largest one being 1B.</p>
+<p>I got to work, quickly set it up, selected a few works that I had stored in Pocket - and ran it across. The first time, I didn&rsquo;t explicitly set a CUDA device, it went to CPU, and it took ~3 hrs to actually get an audio sample (a .wav file).</p>
+<p>With CUDA setup - it still takes about 1 hr. I initially faced out of memory issues. (A small hack at DAC - interface.py).</p>
+<p>Now this was an issue, such a long time to create a 5 min talk. But perhaps this was due to large models, I continue with testing on smaller models.</p>
+<p>Along the way, I also stumbled acorss an interesting concept called DAC (Descript Audio Codec // paper: High Fidelity Compression with Improved RVQGAN).</p>
+<p>So I had to understand - How does this model work on an android phone, can I run it way faster, and another stuff, can I make it sound differently.</p>
+<p>The last step is because, lot&rsquo;s of models only have a default model that works really well, but the model with outetts literally breathes a lot, during pauses. In order to make it more &ldquo;natural&rdquo;. Which degrades the quality of the audio you are listening to.</p>
+<p>So these are all the steps:
+1/ Can the model run faster - if so how ?
+2/ Can smaller models give a decent quality as the large one ?
+3/ Can I make the &ldquo;model&rdquo; sound as I want it to be - either via finetuning or through their &ldquo;one-shot learning method&rdquo; ?</p>
+<p>[^1] Chrome does have a feature to read - but it takes internet access, and also is hidden somewhere in the three-dots options.
+[^2] Well, to speechfy&rsquo;s credit, they have a really good feature, that let&rsquo;s you listen to any document, file format - be it pdf&rsquo;s, markdowns, txt&rsquo;s, and even scanned documents (they have a strong OCR feature), this is valuable.
+[^3] It&rsquo;s such a classic gaming laptop spec - indeed, when I bought it, Dell G-Series, provided best value for money (I couldn&rsquo;t buy the Mac).</p>
+
+</article>
+
+        </main>
+        <footer>
+</footer> 
+    </body>
+</html>

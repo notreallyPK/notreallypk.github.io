@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/about.md",
+                "file": "projects/enclosure-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "enclosure-design"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/about.md",
+                "file": "projects/enclosure-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for about"
+              "title": "Backlinks for enclosure-design"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/about.md",
+                "file": "projects/enclosure-design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from about"
+              "title": "Outgoing links from enclosure-design"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/about.md",
+                "file": "projects/enclosure-design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of about"
+              "title": "Outline of enclosure-design"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "caec2b699b1fd140",
   "lastOpenFiles": [
-    "reading/_index.md",
+    "projects/geo-spatial-data-viz.md",
+    "projects/enclosure-design.md",
+    "projects/read-aloud.md",
     "about/about.md",
+    "reading/_index.md",
     "excerpts/excerpts.md"
   ]
 }

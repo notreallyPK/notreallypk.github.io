@@ -1,7 +1,7 @@
-baseURL = 'https://notreallypk.github.io/'
-languageCode = 'en-us'
-title = 'Pratik Kokil'
-
+baseURL = "https://notreallypk.github.io/"
+languageCode = "en-us"
+title = "Pratik Kokil"
+ 
 [params]
   description = "Personal website of Pratik Kokil"
 

@@ -1,6 +1,7 @@
 ---
-title: "About"
-type: "page"
+title: About
+type: page
+draft: false
 ---
 Hi, I'm Pratik Kokil, a design engineer interested in Electric Vehicles, Stand-up comedy and all things under the sun (perpetually curious!). 
 

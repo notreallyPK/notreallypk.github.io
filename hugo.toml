@@ -30,3 +30,9 @@ title = 'Pratik Kokil'
     url = "/reading/"
     weight = 6
   # ... other menu items
+
+[permalinks]
+  about = "/:filename/"
+  notes = "/notes/:filename/"
+  writings = "/writings/:filename/"
+  projects = "/projects/:filename/"

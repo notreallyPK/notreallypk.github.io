@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cad-Design on Pratik Kokil</title>
+    <link>https://notreallypk.github.io/tags/cad-design/</link>
+    <description>Recent content in Cad-Design on Pratik Kokil</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://notreallypk.github.io/tags/cad-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enclosure Design</title>
+      <link>https://notreallypk.github.io/projects/enclosure-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/projects/enclosure-design/</guid>
+      <description>&lt;p&gt;I designed end to end an enclosure for electronic switches using software packages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solidworks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Time it took for inception to completion:&#xA;1 month&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

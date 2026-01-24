@@ -27,7 +27,7 @@
       <link>https://notreallypk.github.io/projects/geo-spatial-data-viz/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://notreallypk.github.io/projects/geo-spatial-data-viz/</guid>
-      <description>&lt;p&gt;As an official submission to VGI-Hackathon 2024, created a tool to visualize spatio-temporal geo-location trip data of VGI-Flexi trips.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/nairjayesh/vgi_hackathon_2024&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Note: The code hasn&amp;rsquo;t been cleaned up after the hackathon. :/&lt;/p&gt;&#xA;&lt;p&gt;Stack used:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deck.gl (pydeck) - Interactive maps&lt;/li&gt;&#xA;&lt;li&gt;Streamlit - Frontend for the app&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;map-container&#34;&gt;&#xD;&#xA;    &lt;p&gt; here&#39;s a quick demo of the platform &lt;/p&gt; &#xD;&#xA;    &lt;div class=&#34;video-container&#34;&gt; &#xD;&#xA;        &lt;iframe width=&#34;100%&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/m_lU4CKEvo0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt; &#xD;&#xA;    &lt;/div&gt; &#xD;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;As an official submission to VGI-Hackathon 2024, created a tool to visualize spatio-temporal geo-location trip data of VGI-Flexi trips.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/nairjayesh/vgi_hackathon_2024&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Note: The code hasn&amp;rsquo;t been cleaned up after the hackathon. :/&lt;/p&gt;&#xA;&lt;p&gt;Stack used:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deck.gl (pydeck) - Interactive maps&lt;/li&gt;&#xA;&lt;li&gt;Streamlit - Frontend for the app&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;map-container&#34;&gt;&#xA;    &lt;p&gt; here&#39;s a quick demo of the platform &lt;/p&gt; &#xA;    &lt;div class=&#34;video-container&#34;&gt; &#xA;        &lt;iframe width=&#34;100%&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/m_lU4CKEvo0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt; &#xA;    &lt;/div&gt; &#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sensor data fusion: Camera &amp; Radar</title>
@@ -42,6 +42,13 @@
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://notreallypk.github.io/projects/exploring-rl/</guid>
       <description>&lt;p&gt;This was initially a project done as part of Principles of Autonomy and Decision Making at &lt;a href=&#34;https://www.thi.de/&#34;&gt;Technische Hochschule Ingolstadt&lt;/a&gt;. The goal was to implement and test Q-Learning and Deep-Q-Learning in a custom environment.&lt;/p&gt;&#xA;&lt;p&gt;Currently, this page serves as a gateway to exploring different RL algorithms on various environments, starting with Value function based methods.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-q-learning-and-deep-q-learning&#34;&gt;1/ Q-Learning and Deep Q-Learning&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-the-environment&#34;&gt;1.1/ The Environment:&lt;/h3&gt;&#xA;&lt;p&gt;The custom environment was built on top of frameworks such as Gymnasium and PyGames. It essentially, involved an agent (Pikachu) who had to navigate it&amp;rsquo;s way through a maze toward&amp;rsquo;s the goal state (Ash) while collecting reward&amp;rsquo;s (badges) and avoiding terminal state&amp;rsquo;s (Meowth).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enclosure Design</title>
+      <link>https://notreallypk.github.io/projects/enclosure-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/projects/enclosure-design/</guid>
+      <description>&lt;p&gt;I designed end to end an enclosure for electronic switches using software packages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solidworks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Time it took for inception to completion:&#xA;1 month&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

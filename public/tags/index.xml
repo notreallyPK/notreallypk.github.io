@@ -37,20 +37,6 @@
       <description></description>
     </item>
     <item>
-      <title>Reading</title>
-      <link>https://notreallypk.github.io/tags/reading/</link>
-      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/reading/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thoughts</title>
-      <link>https://notreallypk.github.io/tags/thoughts/</link>
-      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>ASR</title>
       <link>https://notreallypk.github.io/tags/asr/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
@@ -93,24 +79,10 @@
       <description></description>
     </item>
     <item>
-      <title>Hacking</title>
-      <link>https://notreallypk.github.io/tags/hacking/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/hacking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philosophy</title>
-      <link>https://notreallypk.github.io/tags/philosophy/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Decisions</title>
-      <link>https://notreallypk.github.io/tags/decisions/</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/decisions/</guid>
+      <title>Cad-Design</title>
+      <link>https://notreallypk.github.io/tags/cad-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/tags/cad-design/</guid>
       <description></description>
     </item>
   </channel>

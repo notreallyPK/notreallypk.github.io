@@ -23,13 +23,6 @@
       <description>&lt;p&gt;I recently came across an idea, in which scene-graphs are used to describe what is happening in a given video frame, below is a very short demonstration along with a link to colab notebook where I explore using Meta&amp;rsquo;s Segment Anything 2 (SAM2) model to create scene graphs.&lt;/p&gt;&#xA;&lt;p&gt;The video we are going to be using is as follows, we want SAM2 to track the cup that contains the ball and in the end tell us the correct position.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Logs &#39;25</title>
-      <link>https://notreallypk.github.io/writings/logs25/</link>
-      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/writings/logs25/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Oct 25 &amp;lsquo;25.&lt;/strong&gt; Been reading the series &lt;a href=&#34;https://notreallypk.github.io/refs/exiting-modernity.pdf&#34;&gt;Exiting Modernity&lt;/a&gt; by Meta-Nomad.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Oct 14 &amp;lsquo;25.&lt;/strong&gt;  Read a decent &lt;a href=&#34;https://archive.is/o2BFF&#34;&gt;write up&lt;/a&gt; on Alec Radford. For anyone who know&amp;rsquo;s the field, the man is a prolific researcher. His work spans Audio (Generative Audio), Speech (Whisper) , Text (GPT1, GPT2) to Vision (CLIP).&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m still not up to do much work today. So, I have instead been watching a series of videos on the &lt;a href=&#34;https://www.youtube.com/watch?v=ajFXykT9Joo&#34;&gt;Secret History&lt;/a&gt; by the Predictive History YouTube channel. I especially liked the &lt;a href=&#34;https://www.youtube.com/watch?v=hk_yhi3-prw&#34;&gt;death by bureaucracy&lt;/a&gt; which ties in to the theme of various sources I have been reading from (longer rant incoming soon). To start off, watch &lt;a href=&#34;https://www.youtube.com/watch?v=oimFqwQgR3g&#34;&gt;Poverty Inc.&lt;/a&gt;; you will see how majority of the aid actually goes towards servicing the bureaucracy that exists to get the aid. Although quite informal, read to get a gist of unproductive people read Geohot&amp;rsquo;s post &lt;a href=&#34;https://geohot.github.io/blog/jekyll/update/2025/09/01/you-will-blame-the-wrong-people.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Audio Transcription Tool</title>
       <link>https://notreallypk.github.io/projects/yatt/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
@@ -48,14 +41,7 @@
       <link>https://notreallypk.github.io/projects/geo-spatial-data-viz/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://notreallypk.github.io/projects/geo-spatial-data-viz/</guid>
-      <description>&lt;p&gt;As an official submission to VGI-Hackathon 2024, created a tool to visualize spatio-temporal geo-location trip data of VGI-Flexi trips.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/nairjayesh/vgi_hackathon_2024&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Note: The code hasn&amp;rsquo;t been cleaned up after the hackathon. :/&lt;/p&gt;&#xA;&lt;p&gt;Stack used:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deck.gl (pydeck) - Interactive maps&lt;/li&gt;&#xA;&lt;li&gt;Streamlit - Frontend for the app&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;map-container&#34;&gt;&#xD;&#xA;    &lt;p&gt; here&#39;s a quick demo of the platform &lt;/p&gt; &#xD;&#xA;    &lt;div class=&#34;video-container&#34;&gt; &#xD;&#xA;        &lt;iframe width=&#34;100%&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/m_lU4CKEvo0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt; &#xD;&#xA;    &lt;/div&gt; &#xD;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Recurring Ideas</title>
-      <link>https://notreallypk.github.io/writings/2024-7-10-ideas/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/writings/2024-7-10-ideas/</guid>
-      <description>&lt;p&gt;Ideas I often find repeating to myself.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The point of wealth is to enable yourself to pursue things for their own sake, but ironically, most times the greatest wealth comes to people who pursue things for their own sake to begin with.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Struggle is entirely pointless, a distraction, a time sink, a thing that hinders a person to get to a place. No matter how proud you are of your version of the rags to riches, the ill person to healthy, the addict to sober, they are time sinks. Imagine, what more you could dream or achieve, if you didn&amp;rsquo;t have to struggle. Alternatively, struggle is the thing you rely on the most, to justify your time and effort going down the drain - because you couldn&amp;rsquo;t figure stuff out faster, or make better decisions earlier.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As an official submission to VGI-Hackathon 2024, created a tool to visualize spatio-temporal geo-location trip data of VGI-Flexi trips.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/nairjayesh/vgi_hackathon_2024&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Note: The code hasn&amp;rsquo;t been cleaned up after the hackathon. :/&lt;/p&gt;&#xA;&lt;p&gt;Stack used:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deck.gl (pydeck) - Interactive maps&lt;/li&gt;&#xA;&lt;li&gt;Streamlit - Frontend for the app&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;map-container&#34;&gt;&#xA;    &lt;p&gt; here&#39;s a quick demo of the platform &lt;/p&gt; &#xA;    &lt;div class=&#34;video-container&#34;&gt; &#xA;        &lt;iframe width=&#34;100%&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/m_lU4CKEvo0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt; &#xA;    &lt;/div&gt; &#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sensor data fusion: Camera &amp; Radar</title>
@@ -72,39 +58,18 @@
       <description>&lt;p&gt;This was initially a project done as part of Principles of Autonomy and Decision Making at &lt;a href=&#34;https://www.thi.de/&#34;&gt;Technische Hochschule Ingolstadt&lt;/a&gt;. The goal was to implement and test Q-Learning and Deep-Q-Learning in a custom environment.&lt;/p&gt;&#xA;&lt;p&gt;Currently, this page serves as a gateway to exploring different RL algorithms on various environments, starting with Value function based methods.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-q-learning-and-deep-q-learning&#34;&gt;1/ Q-Learning and Deep Q-Learning&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-the-environment&#34;&gt;1.1/ The Environment:&lt;/h3&gt;&#xA;&lt;p&gt;The custom environment was built on top of frameworks such as Gymnasium and PyGames. It essentially, involved an agent (Pikachu) who had to navigate it&amp;rsquo;s way through a maze toward&amp;rsquo;s the goal state (Ash) while collecting reward&amp;rsquo;s (badges) and avoiding terminal state&amp;rsquo;s (Meowth).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>On Hacking: A reading List</title>
-      <link>https://notreallypk.github.io/writings/2024-5-6-hack/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/writings/2024-5-6-hack/</guid>
-      <description>&lt;p&gt;Reading lists I&amp;rsquo;d like to maintain on the subject of hacking that I&amp;rsquo;ve found to resonate with me!&lt;/p&gt;&#xA;&lt;p&gt;Thankyou to the authors for publishing on the Internet!&lt;/p&gt;&#xA;&lt;p&gt;from ESR&amp;rsquo;s Jargon File:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;hacker: n.&#xA;A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary. &lt;br&gt;&#xA;RFC1392, the Internet Users&amp;rsquo; Glossary, usefully amplifies this as: A person who delights in having an intimate understanding of the internal workings of a system, computers and computer networks in particular.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What to work on?</title>
-      <link>https://notreallypk.github.io/writings/2023-6-9-decisions-on-work/</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/writings/2023-6-9-decisions-on-work/</guid>
-      <description>&lt;p&gt;Update:&lt;/p&gt;&#xA;&lt;p&gt;What to work on? What to learn and how to think about this question of spending majority of your time into something? I have been trying to figure out answers to questions as well, and it&amp;rsquo;s not straight-forward.&lt;/p&gt;&#xA;&lt;p&gt;I feel our culture / written works around these questions, have a lot of different opinions, and mostly leave out the messy part - the empty dread of not knowing what comes next when you decide upon something. Currently, I have found the following couple of ideas that help convey what I have been thinking about:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sounds Of Silence</title>
-      <link>https://notreallypk.github.io/writings/2022-3-12-sounds-of-silence/</link>
-      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/writings/2022-3-12-sounds-of-silence/</guid>
-      <description>&lt;h3 id=&#34;i&#34;&gt;I.&lt;/h3&gt;&#xA;&lt;p&gt;“What does silence sound like?” That is not the question I began my day with. I woke up with a cool breeze hitting my body, it is a summer morning - at the backdrop of a warm atmosphere, the fan was running at full speed.&lt;/p&gt;&#xA;&lt;p&gt;I checked the time - it was 6:45 AM. it was a pleasant surprise, I slept at 12:00 AM and half expecting myself to wake up early, I had an alarm for 7:15 AM. It is a different feeling all together for me - when it feels like I’m ahead of the day, as opposed to playing catch up throughout the day - why is it so, maybe for some other time.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An Ode to the Internet</title>
-      <link>https://notreallypk.github.io/writings/2022-1-30-the_internet/</link>
-      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/writings/2022-1-30-the_internet/</guid>
-      <description>&lt;h3 id=&#34;i&#34;&gt;I.&lt;/h3&gt;&#xA;&lt;p&gt;On August 15, 1995, Indians woke up to the tariff plan of a new sort of communication service. They could buy dial-up internet.&lt;/p&gt;&#xA;&lt;p&gt;At Rs 15,000 a year, it was not quite something the average Indian could afford then.&lt;/p&gt;&#xA;&lt;p&gt;I was still a young kid when I had a glimpse of the Internet&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The old dial-up connection tones, the slow speeds and hefty charges levied.  But I was part of the generation that grew up with it’s evolving use cases. From simple search back then to entire generations who experience banking online and now even - &lt;a href=&#34;https://minto.ai/digital-transformation-series-what-are-we-learning-from-our-ongoing-deployments/&#34;&gt;digital factories&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About</title>
       <link>https://notreallypk.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://notreallypk.github.io/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Pratik Kokil, a design engineer interested in Electric Vehicles, Stand-up comedy and all things under the sun (perpetually curious!).&lt;/p&gt;&#xA;&lt;p&gt;You can find writings and technical projects / updates on this website.&lt;/p&gt;&#xA;&lt;p&gt;You can contact me via &lt;a href=&#34;https://www.linkedin.com/in/pratik-kokil-60266915a/&#34;&gt;LinkedIN&lt;/a&gt; or &lt;a href=&#34;https://x.com/notreallyPK&#34;&gt;X.Com&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Pratik Kokil&lt;/strong&gt;, a Mechanical Design Engineer, passionate about Electric Vehicles, Stand-up comedy, Motorcycle riding and all things under the sun (perpetually curious!).&lt;/p&gt;&#xA;&lt;p&gt;This is my repository for good content, learnings and notes.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s my &lt;a href=&#34;https://www.linkedin.com/in/pratik-kokil-60266915a/&#34;&gt;LinkedIN&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enclosure Design</title>
+      <link>https://notreallypk.github.io/projects/enclosure-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://notreallypk.github.io/projects/enclosure-design/</guid>
+      <description>&lt;p&gt;I designed end to end an enclosure for electronic switches using software packages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solidworks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Time it took for inception to completion:&#xA;1 month&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

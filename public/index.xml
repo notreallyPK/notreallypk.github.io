@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pratik Kokil</title>
-    <link>https://notreallypk.github.io/</link>
+    <link>http://localhost:55332/</link>
     <description>Recent content on Pratik Kokil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notreallypk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55332/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Websites I frequent</title>
-      <link>https://notreallypk.github.io/writings/websites/</link>
+      <link>http://localhost:55332/writings/websites/</link>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/writings/websites/</guid>
+      <guid>http://localhost:55332/writings/websites/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://jsomers.net&#34;&gt;James Somers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.colah.github.io&#34;&gt;Christopher Olah&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/&#34;&gt;Neural Networks, Manifolds, and Topology&lt;/a&gt;, &lt;a href=&#34;https://colah.github.io/posts/2014-07-Understanding-Convolutions/&#34;&gt;Understanding Convolutions&lt;/a&gt; )&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.gwern.net&#34;&gt;Gwern Branwen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ciechanow.ski/&#34;&gt;Bartosz Ciechanowski&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://ciechanow.ski/cameras-and-lenses/&#34;&gt;Camera and Lenses&lt;/a&gt;, &lt;a href=&#34;https://ciechanow.ski/sound/&#34;&gt;Sound&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://distill.pub/&#34;&gt;Distill&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://jackschaedler.github.io/&#34;&gt;Jack Schaedler&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://jackschaedler.github.io/circles-sines-signals/&#34;&gt;Seeing Circles, Sines and Signals&lt;/a&gt; )&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://michaelnielsen.org/&#34;&gt;Michael Nielson&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;http://neuralnetworksanddeeplearning.com/&#34;&gt;Neural Networks and Deep Learning&lt;/a&gt; )&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://eli.thegreenplace.net/&#34;&gt;Eli Bendersky&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/&#34;&gt;How I went about learning Rust&lt;/a&gt;, &lt;a href=&#34;https://eli.thegreenplace.net/2022/asimov-programming-and-the-meta-ladder/&#34;&gt;Asimov, programming and the meta ladder&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://intellectualmathematics.com/manifesto/&#34;&gt;Intellectual Mathematics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://fgiesen.wordpress.com/&#34;&gt;Fabian Giesen&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://fgiesen.wordpress.com/2012/06/03/linear-algebra-toolbox-1/&#34;&gt;Linear Algebra toolbox series&lt;/a&gt;, &lt;a href=&#34;https://fgiesen.wordpress.com/2016/02/05/smart/&#34;&gt;Smart&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://karpathy.ai/&#34;&gt;Andrej Karpathy&lt;/a&gt; (&lt;em&gt;alt.&lt;/em&gt; &lt;a href=&#34;https://karpathy.bearblog.dev/blog/&#34;&gt;Bearblog&lt;/a&gt; )&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.tlb.org/&#34;&gt;Trevor Blackwell&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://www.tlb.org/faq&#34;&gt;FAQ&amp;rsquo;s&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://fabiensanglard.net/&#34;&gt;Fabien Sanglard&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://blog.minhazav.dev/&#34;&gt;Minhaz&amp;rsquo;s Blog&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.redblobgames.com/&#34;&gt;Amit Patel&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://danluu.com/&#34;&gt;Dan Luu&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://danluu.com/learning-to-program/&#34;&gt;How I learned to program&lt;/a&gt; , &lt;a href=&#34;https://danluu.com/p95-skill/&#34;&gt;95-%-ile isn&amp;rsquo;t that good&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://blog.aqnichol.com/&#34;&gt;Alex Nichol&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://amitness.com/&#34;&gt;Amit Chaudhary&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arpitbhayani.me/&#34;&gt;Arpit Bhayani&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://naklecha.com/technical+blogs&#34;&gt;Naklecha.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://nonint.com/&#34;&gt;Non_Interactive&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.answer.ai/&#34;&gt;Answer.AI&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sayak.dev/&#34;&gt;Sayak Paul&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.nadh.in&#34;&gt;Kailash Nadh&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://near.blog/&#34;&gt;Near.blog&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://near.blog/free-alpha-by-design/&#34;&gt;Free Alpha By Design&lt;/a&gt;, &lt;a href=&#34;https://near.blog/links/&#34;&gt;Links&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://worrydream.com/&#34;&gt;Bret Victor&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://archive.is/K46IV&#34;&gt;(Now Defunct) - Bzarg&lt;/a&gt; (&lt;em&gt;esp&lt;/em&gt;. &lt;a href=&#34;https://archive.is/j6oew&#34;&gt;How a Kalman filter works, in pictures&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://norvig.com/&#34;&gt;Peter Norvig&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://norvig.com/21-days.html&#34;&gt;Teach Yourself Programming in Ten Years&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://setosa.io/ev/&#34;&gt;Explained Visually&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://setosa.io/ev/principal-component-analysis/&#34;&gt;Principal Component Analysis&lt;/a&gt;, &lt;a href=&#34;https://setosa.io/ev/eigenvectors-and-eigenvalues/&#34;&gt;Eigenvectors and Eigenvalues&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.lesswrong.com/&#34;&gt;LessWrong&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://www.lesswrong.com/codex&#34;&gt;The Codex&lt;/a&gt; , &lt;a href=&#34;https://www.lesswrong.com/w/challenging-the-difficult&#34;&gt;Challenging the Difficult&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.banksy.co.uk/index.html&#34;&gt;Banksy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wtfhappenedin1971.com/&#34;&gt;WTF Happened In 1971&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://unenumerated.blogspot.com/&#34;&gt;Unenumerated - Nick Szabo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.aaronsw.com/weblog/archive&#34;&gt;Aaron Swartz&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;http://www.aaronsw.com/weblog/rawnerve&#34;&gt;Raw Nerve&lt;/a&gt; , &lt;a href=&#34;http://www.aaronsw.com/weblog/productivity&#34;&gt;HOWTO Be More Productive&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://thesephist.com/&#34;&gt;thesephist.com&lt;/a&gt; (&lt;em&gt;esp.&lt;/em&gt; &lt;a href=&#34;https://thesephist.com/posts/honesty/&#34;&gt;Honesty in Craft&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pluralistic.net/&#34;&gt;Pluralistic - Cory Doctorow&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Exploring SAM2 and Scene Graphs</title>
-      <link>https://notreallypk.github.io/notes/exploring-scene-graphs/</link>
+      <link>http://localhost:55332/notes/exploring-scene-graphs/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/notes/exploring-scene-graphs/</guid>
+      <guid>http://localhost:55332/notes/exploring-scene-graphs/</guid>
       <description>&lt;p&gt;I recently came across an idea, in which scene-graphs are used to describe what is happening in a given video frame, below is a very short demonstration along with a link to colab notebook where I explore using Meta&amp;rsquo;s Segment Anything 2 (SAM2) model to create scene graphs.&lt;/p&gt;&#xA;&lt;p&gt;The video we are going to be using is as follows, we want SAM2 to track the cup that contains the ball and in the end tell us the correct position.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Audio Transcription Tool</title>
-      <link>https://notreallypk.github.io/projects/yatt/</link>
+      <link>http://localhost:55332/projects/yatt/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/projects/yatt/</guid>
+      <guid>http://localhost:55332/projects/yatt/</guid>
       <description>&lt;p&gt;Working on learning about &lt;a href=&#34;https://en.wikipedia.org/wiki/Speech_recognition&#34;&gt;ASR&lt;/a&gt; and shipping something cool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reader - Text To Speech Tool</title>
-      <link>https://notreallypk.github.io/projects/read-aloud/</link>
+      <link>http://localhost:55332/projects/read-aloud/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/projects/read-aloud/</guid>
-      <description>&lt;p&gt;Pocket is dead, and speechify costs money. A project to explore if we can run TTS models locally on a phone, and create a great reading experience.&lt;/p&gt;&#xA;&lt;p&gt;Track notes and status &lt;a href=&#34;https://notreallypk.github.io/content/notes/exploring-tts-one.md&#34;&gt;starting here&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:55332/projects/read-aloud/</guid>
+      <description>&lt;p&gt;Pocket is dead, and speechify costs money. A project to explore if we can run TTS models locally on a phone, and create a great reading experience.&lt;/p&gt;&#xA;&lt;p&gt;Track notes and status &lt;a href=&#34;http://localhost:55332/content/notes/exploring-tts-one.md&#34;&gt;starting here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Visualizing Geo-Location data using Deck.gl</title>
-      <link>https://notreallypk.github.io/projects/geo-spatial-data-viz/</link>
+      <link>http://localhost:55332/projects/geo-spatial-data-viz/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/projects/geo-spatial-data-viz/</guid>
+      <guid>http://localhost:55332/projects/geo-spatial-data-viz/</guid>
       <description>&lt;p&gt;As an official submission to VGI-Hackathon 2024, created a tool to visualize spatio-temporal geo-location trip data of VGI-Flexi trips.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/nairjayesh/vgi_hackathon_2024&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Note: The code hasn&amp;rsquo;t been cleaned up after the hackathon. :/&lt;/p&gt;&#xA;&lt;p&gt;Stack used:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deck.gl (pydeck) - Interactive maps&lt;/li&gt;&#xA;&lt;li&gt;Streamlit - Frontend for the app&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;map-container&#34;&gt;&#xA;    &lt;p&gt; here&#39;s a quick demo of the platform &lt;/p&gt; &#xA;    &lt;div class=&#34;video-container&#34;&gt; &#xA;        &lt;iframe width=&#34;100%&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/m_lU4CKEvo0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt; &#xA;    &lt;/div&gt; &#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sensor data fusion: Camera &amp; Radar</title>
-      <link>https://notreallypk.github.io/projects/sensor-fusion/</link>
+      <link>http://localhost:55332/projects/sensor-fusion/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/projects/sensor-fusion/</guid>
+      <guid>http://localhost:55332/projects/sensor-fusion/</guid>
       <description>&lt;p&gt;This was a team project done under supervision of &lt;a href=&#34;https://www.thi.de/&#34;&gt;Technische Hochschule Ingolstadt&lt;/a&gt;. The goal was to perform late-fusion on radar &amp;amp; camerea detections.&lt;/p&gt;&#xA;&lt;p&gt;This was really fun to work on - got to learn about nitty-gritties of model training, evaluation and spatial fusion of detections. I would like to highlight a few sections here from the project.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/nairjayesh/Sensor-Data-Fusion&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;image-augmentation&#34;&gt;Image Augmentation:&lt;/h3&gt;&#xA;&lt;p&gt;Primary problem when it comes to working on road user data is high levels of data imbalance among different classes, we were working with 6  road user classes with the following distribution.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring Reinforcement Learning</title>
-      <link>https://notreallypk.github.io/projects/exploring-rl/</link>
+      <link>http://localhost:55332/projects/exploring-rl/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/projects/exploring-rl/</guid>
+      <guid>http://localhost:55332/projects/exploring-rl/</guid>
       <description>&lt;p&gt;This was initially a project done as part of Principles of Autonomy and Decision Making at &lt;a href=&#34;https://www.thi.de/&#34;&gt;Technische Hochschule Ingolstadt&lt;/a&gt;. The goal was to implement and test Q-Learning and Deep-Q-Learning in a custom environment.&lt;/p&gt;&#xA;&lt;p&gt;Currently, this page serves as a gateway to exploring different RL algorithms on various environments, starting with Value function based methods.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-q-learning-and-deep-q-learning&#34;&gt;1/ Q-Learning and Deep Q-Learning&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-the-environment&#34;&gt;1.1/ The Environment:&lt;/h3&gt;&#xA;&lt;p&gt;The custom environment was built on top of frameworks such as Gymnasium and PyGames. It essentially, involved an agent (Pikachu) who had to navigate it&amp;rsquo;s way through a maze toward&amp;rsquo;s the goal state (Ash) while collecting reward&amp;rsquo;s (badges) and avoiding terminal state&amp;rsquo;s (Meowth).&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://notreallypk.github.io/about/</link>
+      <link>http://localhost:55332/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/about/</guid>
+      <guid>http://localhost:55332/about/</guid>
       <description>&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Pratik Kokil&lt;/strong&gt;, a Mechanical Design Engineer, passionate about Electric Vehicles, Stand-up comedy, Motorcycle riding and all things under the sun (perpetually curious!).&lt;/p&gt;&#xA;&lt;p&gt;This is my repository for good content, learnings and notes.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s my &lt;a href=&#34;https://www.linkedin.com/in/pratik-kokil-60266915a/&#34;&gt;LinkedIN&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Enclosure Design</title>
-      <link>https://notreallypk.github.io/projects/enclosure-design/</link>
+      <link>http://localhost:55332/projects/enclosure-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/projects/enclosure-design/</guid>
+      <guid>http://localhost:55332/projects/enclosure-design/</guid>
       <description>&lt;p&gt;I designed end to end an enclosure for electronic switches using software packages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solidworks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Time it took for inception to completion:&#xA;1 month&lt;/p&gt;</description>
     </item>
   </channel>

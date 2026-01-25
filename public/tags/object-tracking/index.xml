@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Object Tracking on Pratik Kokil</title>
-    <link>https://notreallypk.github.io/tags/object-tracking/</link>
+    <link>http://localhost:55332/tags/object-tracking/</link>
     <description>Recent content in Object Tracking on Pratik Kokil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notreallypk.github.io/tags/object-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55332/tags/object-tracking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring SAM2 and Scene Graphs</title>
-      <link>https://notreallypk.github.io/notes/exploring-scene-graphs/</link>
+      <link>http://localhost:55332/notes/exploring-scene-graphs/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/notes/exploring-scene-graphs/</guid>
+      <guid>http://localhost:55332/notes/exploring-scene-graphs/</guid>
       <description>&lt;p&gt;I recently came across an idea, in which scene-graphs are used to describe what is happening in a given video frame, below is a very short demonstration along with a link to colab notebook where I explore using Meta&amp;rsquo;s Segment Anything 2 (SAM2) model to create scene graphs.&lt;/p&gt;&#xA;&lt;p&gt;The video we are going to be using is as follows, we want SAM2 to track the cup that contains the ball and in the end tell us the correct position.&lt;/p&gt;</description>
     </item>
   </channel>

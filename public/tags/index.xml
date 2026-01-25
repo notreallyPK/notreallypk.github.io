@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pratik Kokil</title>
-    <link>https://notreallypk.github.io/tags/</link>
+    <link>http://localhost:55332/tags/</link>
     <description>Recent content in Tags on Pratik Kokil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notreallypk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55332/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
-      <link>https://notreallypk.github.io/tags/links/</link>
+      <link>http://localhost:55332/tags/links/</link>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/links/</guid>
+      <guid>http://localhost:55332/tags/links/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>https://notreallypk.github.io/tags/deep-learning/</link>
+      <link>http://localhost:55332/tags/deep-learning/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/deep-learning/</guid>
+      <guid>http://localhost:55332/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Object Tracking</title>
-      <link>https://notreallypk.github.io/tags/object-tracking/</link>
+      <link>http://localhost:55332/tags/object-tracking/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/object-tracking/</guid>
+      <guid>http://localhost:55332/tags/object-tracking/</guid>
       <description></description>
     </item>
     <item>
       <title>Scene Graphs</title>
-      <link>https://notreallypk.github.io/tags/scene-graphs/</link>
+      <link>http://localhost:55332/tags/scene-graphs/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/scene-graphs/</guid>
+      <guid>http://localhost:55332/tags/scene-graphs/</guid>
       <description></description>
     </item>
     <item>
       <title>ASR</title>
-      <link>https://notreallypk.github.io/tags/asr/</link>
+      <link>http://localhost:55332/tags/asr/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/asr/</guid>
+      <guid>http://localhost:55332/tags/asr/</guid>
       <description></description>
     </item>
     <item>
       <title>Audio</title>
-      <link>https://notreallypk.github.io/tags/audio/</link>
+      <link>http://localhost:55332/tags/audio/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/audio/</guid>
+      <guid>http://localhost:55332/tags/audio/</guid>
       <description></description>
     </item>
     <item>
       <title>TTS</title>
-      <link>https://notreallypk.github.io/tags/tts/</link>
+      <link>http://localhost:55332/tags/tts/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/tts/</guid>
+      <guid>http://localhost:55332/tags/tts/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer Vision</title>
-      <link>https://notreallypk.github.io/tags/computer-vision/</link>
+      <link>http://localhost:55332/tags/computer-vision/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/computer-vision/</guid>
+      <guid>http://localhost:55332/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Sensor Fusion</title>
-      <link>https://notreallypk.github.io/tags/sensor-fusion/</link>
+      <link>http://localhost:55332/tags/sensor-fusion/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/sensor-fusion/</guid>
+      <guid>http://localhost:55332/tags/sensor-fusion/</guid>
       <description></description>
     </item>
     <item>
       <title>Reinforcement-Learning</title>
-      <link>https://notreallypk.github.io/tags/reinforcement-learning/</link>
+      <link>http://localhost:55332/tags/reinforcement-learning/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/reinforcement-learning/</guid>
+      <guid>http://localhost:55332/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Cad-Design</title>
-      <link>https://notreallypk.github.io/tags/cad-design/</link>
+      <link>http://localhost:55332/tags/cad-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/tags/cad-design/</guid>
+      <guid>http://localhost:55332/tags/cad-design/</guid>
       <description></description>
     </item>
   </channel>

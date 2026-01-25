@@ -12,24 +12,26 @@
     --bgc: #f9f9f9;
 }
 
-/* Header Title */
+/* Header Title - Styles for the main site title at the top */
 h1.site-title {
     font-size: 2.5em;
     color: #B8401E;
-    margin-bottom: 1rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 }
  
-h1 a{ 
+/* Header Title Links - Make links in the title inherit the title color */
+h1 a{
     color: inherit;
 }
 
-/*Challenge, try to see why the hover component doesn't work*/
- h1 a:hover { 
+/* Header Title Hover - Add underline when hovering over title links */
+h1 a:hover {
     text-decoration: underline;
-} 
+}
 
-/* Base */
+/* Base - Basic styles for the whole page body */
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
@@ -40,24 +42,26 @@ body {
     padding: 0;
 }
 
-/* Links */
+/* Links - Styles for all links on the page */
 a {
     color: #000000;
     text-decoration: underline;
 }
 
+/* Links Hover - What happens when you hover over links */
 a:hover {
     text-decoration: underline;
     opacity: 0.8;
 }
 
-/* Navigation */
+/* Navigation - Styles for the menu bar at the top */
 nav {
     text-align: center;
-    margin: 1rem 0;
+    margin: 0rem 0.5rem;
     white-space: nowrap;
 }
 
+/* Navigation Links - Styles for links in the navigation menu */
 nav a {
     color: #000000;
     text-decoration: underline;
@@ -65,32 +69,33 @@ nav a {
     padding: 0.25rem;
 }
 
-/*Doesn't work beyond the first nested level*/ 
+/* Active Navigation Link - Styles for the current page link in navigation */
 nav a.active {
     color: #B8401E;
     text-decoration: underline;
 }
 
+/* Active Navigation Hover - What happens when hovering over active nav links */
 nav a.active:hover {
     opacity: 0.8;
     text-decoration: underline;
 }
 
-/* Layout */
+/* Layout - Styles for the main content area and header/footer */
 main {
     max-width: 60ch;
-    margin: 2rem auto 0 auto;
+    margin: 1rem auto 0 auto;
     padding: 1rem;
 }
 
 header, footer {
     max-width: 60ch;
     margin: 0 auto;
-    padding: 1rem;
+    padding: 0rem;
     text-align: center;
 }
 
-/* Margin Notes */
+/* Margin Notes - Styles for notes with left margin */
 .note {
     position: relative;
     font-size: 0.9em;
@@ -98,7 +103,7 @@ header, footer {
     margin-left: 5ch;
 }
 
-/* Code Blocks */
+/* Code Blocks - Styles for code snippets */
 code {
     font-family: "Courier New", Courier, monospace;
     background-color: #eaeaea;
@@ -106,16 +111,16 @@ code {
     border-radius: 3px;
 }
 
-/* Footer */
+/* Footer - Styles for the bottom of the page */
 footer {
     font-size: 0.8em;
     color: #999;
     border-top: 2px solid #000;
-    margin-top: 2rem;
-    padding-top: 1rem;
+    margin-top: -0.5rem;
+    padding-top: 0rem;
 }
 
-/* Articles */
+/* Articles - Styles for paragraphs in articles */
 article p {
     font-size: 1rem;
     line-height: 1.5;
@@ -129,7 +134,7 @@ article p span {
     color: #666;
 }
 
-/* Metadata Box */
+/* Metadata Box - Styles for info boxes with details */
 .metadata-box {
     border: 1px solid #ddd;
     padding: 10px;
@@ -146,8 +151,13 @@ article p span {
     color: #333;
 }
 
-/* Main Text */
+/* Main Text - Styles for bold text in paragraphs */
 p b {
     color: #000000;
     font-weight: bold;
+}
+
+/* Heading 2 - Reduce bottom margin for h2 elements */
+h2 {
+    margin-bottom: 0rem;
 }

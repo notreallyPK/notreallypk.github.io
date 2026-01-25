@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision on Pratik Kokil</title>
-    <link>https://notreallypk.github.io/tags/computer-vision/</link>
+    <link>http://localhost:55332/tags/computer-vision/</link>
     <description>Recent content in Computer Vision on Pratik Kokil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notreallypk.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55332/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sensor data fusion: Camera &amp; Radar</title>
-      <link>https://notreallypk.github.io/projects/sensor-fusion/</link>
+      <link>http://localhost:55332/projects/sensor-fusion/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://notreallypk.github.io/projects/sensor-fusion/</guid>
+      <guid>http://localhost:55332/projects/sensor-fusion/</guid>
       <description>&lt;p&gt;This was a team project done under supervision of &lt;a href=&#34;https://www.thi.de/&#34;&gt;Technische Hochschule Ingolstadt&lt;/a&gt;. The goal was to perform late-fusion on radar &amp;amp; camerea detections.&lt;/p&gt;&#xA;&lt;p&gt;This was really fun to work on - got to learn about nitty-gritties of model training, evaluation and spatial fusion of detections. I would like to highlight a few sections here from the project.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/nairjayesh/Sensor-Data-Fusion&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;image-augmentation&#34;&gt;Image Augmentation:&lt;/h3&gt;&#xA;&lt;p&gt;Primary problem when it comes to working on road user data is high levels of data imbalance among different classes, we were working with 6  road user classes with the following distribution.&lt;/p&gt;</description>
     </item>
   </channel>

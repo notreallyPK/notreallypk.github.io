@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:55332/tags/links/</loc>
+    <loc>http://localhost:58927/tags/links/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/</loc>
+    <loc>http://localhost:58927/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/</loc>
+    <loc>http://localhost:58927/tags/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/writings/websites/</loc>
+    <loc>http://localhost:58927/writings/websites/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/writings/</loc>
+    <loc>http://localhost:58927/writings/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/deep-learning/</loc>
+    <loc>http://localhost:58927/tags/deep-learning/</loc>
     <lastmod>2025-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/notes/exploring-scene-graphs/</loc>
+    <loc>http://localhost:58927/notes/exploring-scene-graphs/</loc>
     <lastmod>2025-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/notes/</loc>
+    <loc>http://localhost:58927/notes/</loc>
     <lastmod>2025-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/object-tracking/</loc>
+    <loc>http://localhost:58927/tags/object-tracking/</loc>
     <lastmod>2025-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/scene-graphs/</loc>
+    <loc>http://localhost:58927/tags/scene-graphs/</loc>
     <lastmod>2025-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/asr/</loc>
+    <loc>http://localhost:58927/tags/asr/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/audio/</loc>
+    <loc>http://localhost:58927/tags/audio/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/projects/yatt/</loc>
+    <loc>http://localhost:58927/projects/yatt/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/projects/</loc>
+    <loc>http://localhost:58927/projects/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/projects/read-aloud/</loc>
+    <loc>http://localhost:58927/projects/read-aloud/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/tts/</loc>
+    <loc>http://localhost:58927/tags/tts/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/projects/geo-spatial-data-viz/</loc>
+    <loc>http://localhost:58927/projects/geo-spatial-data-viz/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/computer-vision/</loc>
+    <loc>http://localhost:58927/tags/computer-vision/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/projects/sensor-fusion/</loc>
+    <loc>http://localhost:58927/projects/sensor-fusion/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/sensor-fusion/</loc>
+    <loc>http://localhost:58927/tags/sensor-fusion/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/projects/exploring-rl/</loc>
+    <loc>http://localhost:58927/projects/exploring-rl/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/tags/reinforcement-learning/</loc>
+    <loc>http://localhost:58927/tags/reinforcement-learning/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55332/about/</loc>
+    <loc>http://localhost:58927/about/</loc>
   </url><url>
-    <loc>http://localhost:55332/about/</loc>
+    <loc>http://localhost:58927/about/</loc>
   </url><url>
-    <loc>http://localhost:55332/tags/cad-design/</loc>
+    <loc>http://localhost:58927/tags/cad-design/</loc>
   </url><url>
-    <loc>http://localhost:55332/categories/</loc>
+    <loc>http://localhost:58927/categories/</loc>
   </url><url>
-    <loc>http://localhost:55332/projects/enclosure-design/</loc>
+    <loc>http://localhost:58927/projects/enclosure-design/</loc>
   </url><url>
-    <loc>http://localhost:55332/reading/</loc>
+    <loc>http://localhost:58927/reading/</loc>
   </url>
 </urlset>

@@ -2,10 +2,12 @@
 title: About
 type: page
 ---
-Hi, I'm **Pratik Kokil**, a Mechanical Design Engineer, passionate about Electric Vehicles, Stand-up comedy, Motorcycle riding and all things under the sun (perpetually curious!). 
+Hi, I'm **Pratik Kokil**, a Mechanical Design Engineer, passionate about Automobiles, EV's, Stand-up comedy, Motorcycle riding, Travel and all things under the sky (also, Space!). 
 
-This is my repository for good content, learnings and notes. 
+This is my corner on the internet. Corner where I store good content, interesting reads and awesome things which I can consume from time and again. 
 
-Here's my [LinkedIN](https://www.linkedin.com/in/pratik-kokil-60266915a/)
+like a notes app but on the internet. 
+
+Here's my [LinkedIN](https://www.linkedin.com/in/pratik-kokil-60266915a/) and [Twitter](https://x.com/notreallyPK) (yep, I'm still gonna call it that!)
 
 

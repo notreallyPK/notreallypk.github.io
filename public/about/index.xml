@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Pratik Kokil</title>
-    <link>http://localhost:55332/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>Recent content in Abouts on Pratik Kokil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:55332/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:55332/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55332/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Pratik Kokil&lt;/strong&gt;, a Mechanical Design Engineer, passionate about Electric Vehicles, Stand-up comedy, Motorcycle riding and all things under the sun (perpetually curious!).&lt;/p&gt;&#xA;&lt;p&gt;This is my repository for good content, learnings and notes.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s my &lt;a href=&#34;https://www.linkedin.com/in/pratik-kokil-60266915a/&#34;&gt;LinkedIN&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Pratik Kokil&lt;/strong&gt;, a Mechanical Design Engineer, passionate about Automobiles, EV&amp;rsquo;s, Stand-up comedy, Motorcycle riding, Travel and all things under the sky (also, Space!).&lt;/p&gt;&#xA;&lt;p&gt;This is my corner on the internet. Corner where I store good content, interesting reads and awesome things which I can consume from time and again.&lt;/p&gt;&#xA;&lt;p&gt;like a notes app but on the internet.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s my &lt;a href=&#34;https://www.linkedin.com/in/pratik-kokil-60266915a/&#34;&gt;LinkedIN&lt;/a&gt; and &lt;a href=&#34;https://x.com/notreallyPK&#34;&gt;Twitter&lt;/a&gt; (yep, I&amp;rsquo;m still gonna call it that!)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
